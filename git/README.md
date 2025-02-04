@@ -1,0 +1,2 @@
+# Git directory
+so cool
